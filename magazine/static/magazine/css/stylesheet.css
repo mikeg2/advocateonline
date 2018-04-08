@@ -876,7 +876,7 @@ and (max-device-width : 480px) {
 }
 
 .item-title {
-	font-family: urbana, 'league_gothicregular';
+	font-family: 'league_gothicregular';
 	display: block;
 	font-weight: 300;
 	font-size: 2.3em;
@@ -887,7 +887,7 @@ and (max-device-width : 480px) {
 }
 
 .item-author {
-	font-family: oxtail, Georgia;
+	font-family: Georgia;
 	display: block;
 	margin-top: -2px;
 	text-align: center;
